@@ -1,6 +1,6 @@
 # ◈ DevMap — Mapa de Conhecimento
 
-![DevMap Preview](/home/muril/devmap/public/print.png)
+![DevMap Preview](public/print.png)
 
 > **Visualize o caminho completo para aprender qualquer tecnologia.**  
 > Nós interativos, dependências visuais e recursos curados — tudo em um único mapa.
